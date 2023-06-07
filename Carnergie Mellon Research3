@@ -1,1 +1,25 @@
+Why do we need a grammar in data science?
+who are the end users of our(research) code? myself, stakeholders, community, etc. you in the present and future. 
+Writting code emphatically to ourselves. 
+writting code is hard but we practice we can get there. 
+In research code should be easy to understand. 
+We need code thats easy to understand with easy grammar. Tidy grammar for data wrangling.
+Objects = tibble data frama
+Functions = verbs
+code = composition
+The %>% Allows to write function composition in a left-to right manner.
+some Y value and some X value.
+Graphics reveal data - Edward Tufte
+The grammar of graphics- principal data visualization framework introduced by Leland Wilkinson
+Start with raw data --> Visualize transformations, summaries, etc.
+Data, geom, aes, scale, facet, stat, coordinate systems.
+ggplot creates the canvas 
+Scale_X_continuous 
+It could be that we add a lay out or statistical to the data set. 
+We enherit the desing and we do not have to stick to the theme. 
+You can add dementions of color. 
+one scale for each mapped variable on the graph
+We must label our plots > costum theme as well it usually comes in grey
+instead of copying code, we just need to pevit the dat. 
+We pevit the colums. We split the variables.
 
